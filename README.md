@@ -4,8 +4,6 @@
 
 [论文：Span-based Joint Entity and Relation Extraction with Transformer Pre-training](Span-based Joint Entity and Relation Extraction with Transformer Pre-training.pdf)
 
-[数据集和BERT预训练参数-百度网盘](https://pan.baidu.com/s/1h5GjkG2bf78ZSJZYP1OBlA) -- 提取码：igjq
-
 ### 名称解释
 
 - **命名实体识别(Name Entity Recognition, NER)**：识别文本中具有特定意义的实体，包括人名、地名、机构名等。
